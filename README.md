@@ -22,7 +22,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-E1E1E1?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-E1E1E1?style=flat&logo=CSS3&logoColor=1572B6)
 
-<h3> 📚 &nbsp;Proximas Tecnologias:</h3>
+<h3> 📚 &nbsp;Next Tech:</h3>
 
 ![Solidity](https://img.shields.io/badge/-Solidity-3C335F?style=flat&logo=solidity)
 ![C++](https://img.shields.io/badge/-C++-blue?style=flat&logo=Cplusplus)
