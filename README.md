@@ -4,7 +4,7 @@
 
 - ⚖ A programação para mim era um hobby que depois eu decidi que quero isso para minha vida.
 
-- 📈 Atualmente tenho foco principal da minha carreira nas áreas de: desenvolvimento de software e mobile. Atualmente me aprofundo nas tecnologias C# .NET Core e banco de dados MySQL.
+- 📈 Tenho o foco principal da minha carreira nas áreas de: desenvolvimento de software e mobile. Atualmente me aprofundo nas tecnologias C# .NET Core e banco de dados MySQL.
 
 - 💙 Minha paixão é de resolver problemas e facilitar a vida das pessoas.
 
