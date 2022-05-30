@@ -1,6 +1,6 @@
 <h2> 👓 &nbsp;About me </h2>
 
-- 👨🏻‍💻 Tive meu primeiro contato com programação aos 14 anos de idade, quando eu quis criar um mapa de Warcraft 3. A cada algoritimo que eu conseguia desenvolver dentro do jogo era uma alegria, um sentimento único. Percebi que tinha infinitas possibilidades de criar algo novo.
+- 👨🏻‍💻 Tive meu primeiro contato com programação aos 14 anos de idade, quando eu quis criar um mapa de Warcraft 3. A cada algoritmo que eu conseguia desenvolver dentro do jogo era uma alegria, um sentimento único. Percebi que tinha infinitas possibilidades de criar algo novo.
 
 - ⚖ A programação para mim era um hobby que depois eu decidi que quero isso para minha vida.
 
